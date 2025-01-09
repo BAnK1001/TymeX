@@ -1,0 +1,11 @@
+<resources>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="amount_input_description">Input field for entering the amount to convert</string>
+    <string name="from_currency_description">Dropdown to select the currency to convert from</string>
+    <string name="to_currency_description">Dropdown to select the currency to convert to</string>
+    <string name="convert_button_description">Button to start the currency conversion</string>
+    <string name="result_text_description">Text area to display the conversion result</string>
+    <string name="app_name">Currency Converter\n</string>
+</resources>
